@@ -1,6 +1,6 @@
 > 专心生活, 快乐工作
 
-Hey，我是洋洋，金鱼进化体，多出没于[博客](https://huangxuan.me)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Github](http://github.com/huxpro)等地带。
+Hey，我是洋洋，金鱼进化体，多出没于[博客](https://bfsleep.com)、[知乎](https://www.zhihu.com/people/mr-li-29-33/activities)、[Github](http://github.com/huxpro)等地带。
 
 职业是软件工程师
 
