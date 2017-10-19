@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 289633152@qq.com
 description: "关于后端与架构设计、黑客与画家 | 洋洋，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @YY洋洋 的个人博客，与你一起发现更大的世界。"
 keyword: "YY, 洋洋, libgo, @libgo, 洋洋的博客, 洋洋 Blog, 博客, 个人网站, 互联网, Web, C++, Golang, 后端, 架构, 架构设计, 网络"
-url: "http://bfsleep.me"              # your host, for absolute URL
+url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
